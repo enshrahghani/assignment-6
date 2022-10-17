@@ -1,0 +1,154 @@
+.nav-bar a{
+    text-decoration: none;
+    color: black;
+}
+.nav-bar a:hover{
+    color: blue;
+}
+.box{
+    background-color: #f5f7fc;
+    height: 100vh;
+    width: 100vw;
+    padding-left: 4%;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-image: url('https://demo.epic-webdesign.com/tf-smart/v1/images/ui-design.png');
+}
+.solid i{
+    color: green;
+}
+.max{
+    background-color: #f5f7fc;
+    height: 100%;
+    width: 100%;
+}
+.shed{
+    background-color: #fff;
+}
+.contain{
+    background-color: #f5f7fc;
+    height: 100%;
+    width: 100%;
+}
+.paragraph{
+    margin-left: 10em;
+    padding-top: 6em;
+}
+.main{
+    margin-left: 6%;
+}
+.xendesk{
+    background-color: white;
+    padding: 1em;
+    border-radius: 1em;
+}
+.xendesk img{
+    width: 100%;
+    margin: auto;
+}
+.mailching{
+    background-color: white;
+    padding: 1em;
+    border-radius: 1em;
+}
+.mailching img{
+    width: 100%;
+    margin: auto;
+}
+.freedom{
+    background-color: white;
+    padding: 1em;
+    border-radius: 1em;
+}
+.freedom img{
+    width: 100%;
+    margin: auto;
+}
+.intercom{
+    background-color: white;
+    padding: 1em;
+    border-radius: 1em;
+}
+.intercom img{
+    width: 100%;
+    margin: auto;
+}
+.freshdesk{
+    background-color: white;
+    padding: 1em;
+    border-radius: 1em;
+}
+.freshdesk img{
+    width: 100%;
+    margin: auto;
+}
+.mainbox{
+    margin-left: 6%;
+}
+.demo{
+    background-color: white;
+    padding: 1em;
+    border-radius: 1em;
+}
+.demo img{
+    width: 100%;
+    margin: auto;
+}
+.github{
+    background-color: white;
+    padding: 1em;
+    border-radius: 1em;
+}
+.github img{
+    width: 100%;
+    margin: auto;
+}
+.react{
+    background-color: white;
+    padding: 1em;
+    border-radius: 1em;
+}
+.react img{
+    width: 100%;
+    margin: auto;
+}
+.bootstrap{
+    background-color: white;
+    padding: 1em;
+    border-radius: 1em;
+}
+.bootstrap img{
+    width: 100%;
+    margin: auto;
+}
+.port{
+    width: 100vw;
+    height: auto;
+    background-position: right;
+    background-repeat: no-repeat repeat;                                                            
+    background-image: url('https://demo.epic-webdesign.com/tf-smart/v1/images/digital-marketing.png');
+}
+.icons{
+    background-color: #f5f7fc;
+    text-align: center;
+    margin-top: 8%;
+}
+.class{
+    margin-top: 4%;
+    margin-left: 5%;
+}
+.index{
+    margin-top: 6%;
+}
+.Hawking img{
+    width: 100%;
+    height: auto;
+}
+.andreas img{
+    width: 100%;
+    height: auto;
+}
+.smith img{
+    width: 100%;
+    height: auto;
+}    
